@@ -1,0 +1,57 @@
+﻿body {
+    background-color: #e5e5e5;
+}
+.parent{
+   width: 40%;
+   height: 450px;
+   background: white;
+   border-radius: 45px;
+   margin-left: 230px;
+   margin-top: 20px;
+   padding: 20px;
+}
+.child {
+    height: 130px;
+    background: #9ba2dd;
+    border-radius: 25px;
+    color: white;
+    width: 93%;
+    margin-left: 20px;
+    padding: 10px 0px 0px 0px;
+}
+h1{
+    font-family: Ariel;
+    margin-top: -2px;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.a{
+    margin-left: 20px;
+    font-family: Calibri;
+    font-size: 15px;
+    float:left;
+}
+.ab {
+   color: black;
+    font-family: Calibri;
+    font-size: 15px;
+    float: right;
+    background: white;
+    border: 2px solid white;
+    height: 30px;
+    margin-right: 20px;
+    width: 70px;
+}
+.list{
+    float:left;
+}
+.ist{
+    float:right;
+} 
+li{
+    padding: 8px;
+    list-style: none;
+}
+li:hover{
+    background: grey;
+}
